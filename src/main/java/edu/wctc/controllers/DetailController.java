@@ -37,7 +37,7 @@ public class DetailController {
         return "detail/detail";
     }
 
-    @GetMapping("/showAddItemForm")
+    @GetMapping("/user/showAddItemForm")
     public String showAddItemForm(Model theModel){
         Item theItem = new Item();
         ItemDetail theItemDetail = new ItemDetail();
@@ -50,7 +50,7 @@ public class DetailController {
         return "detail/detail";
     }
 
-    @RequestMapping("/save")
+    @RequestMapping("/user/save")
     public String saveItem(@ModelAttribute("aItem") Item item) {
 
         itemService.saveItem(item);
@@ -60,7 +60,7 @@ public class DetailController {
 
     }
 
-    @GetMapping("/delete")
+    @GetMapping("/admin/delete")
     public String deleteItem(@ModelAttribute("itemId") int theId) {
 
         itemService.deleteItem(theId);
@@ -70,7 +70,7 @@ public class DetailController {
 
     }
 
-    @RequestMapping("/showUpdateForm")
+    @RequestMapping("/user/showUpdateForm")
     public String showUpdateItemForm(@RequestParam("itemId") int theId,
                                       Model theModel) {
         // Get item from the database
@@ -79,7 +79,7 @@ public class DetailController {
         // Set item as a model attribute to pre-populate the form
         theModel.addAttribute("aItem", theItem);
 
-        theModel.addAttribute("itemDetails", itemDetailService.getItemDetails());
+        theModel.addAttribute("detailList", itemDetailService.getItemDetails());
 
         // Redirect back to the add form
         return "detail/detail";

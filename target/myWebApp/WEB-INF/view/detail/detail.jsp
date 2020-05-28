@@ -17,7 +17,7 @@
         </header>
 
         <!-- item list table -->
-        <form:form action="${cp}/details/save" modelAttribute="aItem" method="post">
+        <form:form action="${cp}/details/user/save" modelAttribute="aItem" method="post">
             <label> Name </label>
             <form:input path="name"/>
 
@@ -25,10 +25,11 @@
 
             <label> Sizes </label>
              <form:select path="detail" items="${detailList}" itemLabel="size" itemValue="id">
-            <c:forEach var="tempDetail" items="${items.detail}">
-                ${tempDetail.size}&nbsp;
-            </c:forEach>
+<%--            <c:forEach var="tempDetail" items="${items.detail}">--%>
+<%--                ${tempDetail.size}&nbsp;--%>
+<%--            </c:forEach>--%>
              </form:select>
+            <form:hidden path="id"/>
 
             <br><br>
 

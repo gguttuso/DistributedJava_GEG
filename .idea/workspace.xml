@@ -7,45 +7,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab7b7fe7-dbf5-4525-8fd8-8e7ae88a075f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/wctc/service/converter/StringToItemConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/errors/errors.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/seg0/c640.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/seg0/c651.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/seg0/c660.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/seg0/c671.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext-security.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_web application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/_web application.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/db/db.lck" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/db/log/log.ctrl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/log/log1.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/db/log/logmirror.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seg0/c400.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c400.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seg0/c580.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c580.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seg0/c591.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c591.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seg0/c5f0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c5f0.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seg0/c601.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c601.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/seg0/c611.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c611.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c101.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c101.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c111.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c111.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c121.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c121.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c130.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c130.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c141.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c141.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c150.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c150.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c161.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c161.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c171.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c171.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c20.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c20.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c200.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c200.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c211.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c211.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c221.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c221.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c31.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c31.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c41.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c41.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c51.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c51.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c60.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c71.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c71.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c81.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c81.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/c90.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/c90.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/ca1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/ca1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/cb1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/cb1.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/seg0/cf0.dat" beforeDir="false" afterPath="$PROJECT_DIR$/db/seg0/cf0.dat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/wctc/controllers/DetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/wctc/controllers/DetailController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/wctc/controllers/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/wctc/controllers/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/wctc/controllers/ListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/wctc/controllers/ListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/wctc/dao/ItemDetailDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/wctc/dao/ItemDetailDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/wctc/dao/ItemDetailDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/wctc/dao/ItemDetailDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/wctc/service/ItemDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/wctc/service/ItemDetailService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/wctc/service/ItemDetailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/wctc/service/ItemDetailServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/resources/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/wctc/controllers/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/wctc/controllers/LoginController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/detail/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/detail/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/header.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/list/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/list/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/login/login.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/edu/wctc/controllers/DetailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/wctc/controllers/DetailController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/wctc/controllers/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/wctc/controllers/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/wctc/controllers/ListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/wctc/controllers/ListController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/edu/wctc/dao/ItemDetailDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/wctc/dao/ItemDetailDAOImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/wctc/controllers/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/wctc/controllers/LoginController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/classes/edu/wctc/controllers/DetailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/classes/edu/wctc/controllers/DetailController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/classes/edu/wctc/controllers/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/classes/edu/wctc/controllers/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/classes/edu/wctc/controllers/ListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/classes/edu/wctc/controllers/ListController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/classes/edu/wctc/dao/ItemDetailDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/classes/edu/wctc/dao/ItemDetailDAOImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/resources/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/classes/edu/wctc/controllers/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/classes/edu/wctc/controllers/LoginController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/view/detail/detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/view/detail/detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/view/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/view/header.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/view/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/view/list/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/view/list/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/view/login/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/view/login/login.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/myWebApp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/myWebApp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,25 +97,13 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="itemDatabase" type="feb32156:DbDataSourceImpl" />
         <item name="BRIE: schema" type="12aa88c4:DerbyImplModel$Schema" />
-        <item name="CATEGORY: table" type="7a557cd6:DerbyImplModel$Table" />
+        <item name="AUTHORITIES: table" type="7a557cd6:DerbyImplModel$Table" />
       </path>
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="itemDatabase" type="feb32156:DbDataSourceImpl" />
         <item name="BRIE: schema" type="12aa88c4:DerbyImplModel$Schema" />
-        <item name="ITEM: table" type="7a557cd6:DerbyImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="itemDatabase" type="feb32156:DbDataSourceImpl" />
-        <item name="BRIE: schema" type="12aa88c4:DerbyImplModel$Schema" />
-        <item name="ITEM_DETAIL: table" type="7a557cd6:DerbyImplModel$Table" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="itemDatabase" type="feb32156:DbDataSourceImpl" />
-        <item name="BRIE: schema" type="12aa88c4:DerbyImplModel$Schema" />
-        <item name="ITEM_ITEM_DETAIL: table" type="7a557cd6:DerbyImplModel$Table" />
+        <item name="USERS: table" type="7a557cd6:DerbyImplModel$Table" />
       </path>
     </expand>
     <select />
@@ -114,15 +113,20 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="spring-beans.schema" />
         <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
         <option value="Jsp File" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -201,12 +205,12 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@ff1d00f1" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3e6ceeb0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@ff1d00f1" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@4e743319" type="9fbbdea:ServiceModel$ServiceNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3e6ceeb0" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@2498b1ff" type="9fbbdea:ServiceModel$ServiceNode" />
             </path>
           </expand>
           <select />
@@ -257,7 +261,9 @@
       <workItem from="1589328473744" duration="4512000" />
       <workItem from="1590334422386" duration="14144000" />
       <workItem from="1590448141934" duration="18079000" />
-      <workItem from="1590534388682" duration="13697000" />
+      <workItem from="1590534388682" duration="13984000" />
+      <workItem from="1590586903547" duration="4509000" />
+      <workItem from="1590628571693" duration="6511000" />
     </task>
     <task id="LOCAL-00001" summary="Added Tomcat config">
       <created>1580171010017</created>
@@ -420,7 +426,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590506434496</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="5.27.2020 12:30 p.m.&#10;Added add, update, delete, search and error page">
+      <created>1590557398702</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1590557398702</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,6 +468,7 @@
     <MESSAGE value="5.24.2020 7:30p.m." />
     <MESSAGE value="5.25.2020 10:18p.m." />
     <MESSAGE value="5.25.2020 10:42p.m.&#10;Moved /showAddItemForm to Detail Controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.25.2020 10:42p.m.&#10;Moved /showAddItemForm to Detail Controller" />
+    <MESSAGE value="5.27.2020 12:30 p.m.&#10;Added add, update, delete, search and error page" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.27.2020 12:30 p.m.&#10;Added add, update, delete, search and error page" />
   </component>
 </project>
